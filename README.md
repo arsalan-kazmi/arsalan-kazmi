@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer
 --------
 
-* 🌍  I'm based in Srinagar, Kashmir
-* ✉️  You can contact me at [arsalankazmi03@gmail.com](mailto:arsalankazmi03@gmail.com)
-* 🧠  I'm learning JS frameworks
 
 ### Skills
 
